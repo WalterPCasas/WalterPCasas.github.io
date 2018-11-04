@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -41,3 +42,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+title: openVlab
+#theme: jekyll-theme-cayman
+>>>>>>> 6d94f475b0c6dd8a2ec31678eb3db62b5cd0834a
