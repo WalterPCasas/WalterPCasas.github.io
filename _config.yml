@@ -16,8 +16,7 @@
 title: Open vLab
 email: wperezc@uni.pe
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a humble project to share information and knowledge about computer machinery 
-  in many languages. Share knowledge and Happy Coding!
+  Si te gusta la computación, este es el huarique.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
