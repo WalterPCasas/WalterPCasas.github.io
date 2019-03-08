@@ -17,7 +17,7 @@ Lo anterior corre un notebook Jupyter en el servidor remoto en el puerto 8889 si
 
 
 
-1. En un nuevo terminal local o en el CMD de Windows  se realiza una nueva conexión ssh configurando un forwarding de puertos.
+2. En un nuevo terminal local o en el CMD de Windows  se realiza una nueva conexión ssh configurando un forwarding de puertos.
 {% highlight bash%}
 local_user@local_host$ ssh -N -L localhost:8888:localhost:8889 remote_user@servidor_remoto
 {% endhighlight %}
@@ -27,7 +27,7 @@ local_user@local_host$ ssh -N -L localhost:8888:localhost:8889 remote_user@servi
 
 
 
-1. Finalmente en nuestro navegador local realizamos la conexión, colocando lo siguiente en el lugar donde va la URL.
+3. Finalmente en nuestro navegador local realizamos la conexión, colocando lo siguiente en el lugar donde va la URL.
 {% highlight bash%}
 localhost:8888
 {% endhighlight %}
